@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333395749665",
+    "project_id": "bimcalculator",
+    "storage_bucket": "bimcalculator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333395749665:android:5fc78db849966cd0222c60",
+        "android_client_info": {
+          "package_name": "com.example.bimcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgZH5P454k2MuzcZqv0lbxyr-bpl7vRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
